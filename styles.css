@@ -1,0 +1,36 @@
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            text-align: center;
+        }
+        .photo {
+            text-align: center;
+        }
+        .section {
+            margin-top: 20px;
+        }
+       
+        /* styles.css */
+
+.section {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+}
+
+/* Style the heading */
+.section h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Style the paragraph text */
+.section p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+}
